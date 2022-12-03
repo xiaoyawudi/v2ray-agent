@@ -1,4 +1,4 @@
-# 原作者：mack-a
+# 原作者哦：mack-a
 # 原项目地址： https://github.com/mack-a/v2ray-agent
 
 # v2ray-agent
